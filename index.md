@@ -4,11 +4,16 @@ This is the project homepage of `ConbexNN`, a **con**tainer **b**ased **ex**ecut
 
 ### Masterthesis
 
-This is a masterthesis project.
+This is a masterthesis project developed at the University of Vienna.
 
-### Getting started:
+### Getting started
+Get started by downloading a demo VM or deploy the stack into the cloud.
 
-Get started [here](https://github.com/a00908270/conbexnn)
+Instructions [here](https://github.com/a00908270/conbexnn)
 
 ### API Documentation
-Check out the [api documentation](https://app.swaggerhub.com/apis/a00908270/vinnsl-service/0.0.1-SNAPSHOT).
+Check out the API Doc for
+* [vinnsl-service](https://app.swaggerhub.com/apis/a00908270/vinnsl-service/0.0.1-SNAPSHOT)
+* [vinnsl-storage-service](https://app.swaggerhub.com/apis/a00908270/vinnsl-storage-service/0.0.1-SNAPSHOT)
+* [vinnsl-nn-worker](https://app.swaggerhub.com/apis/a00908270/nn-worker_service/0.0.1-SNAPSHOT)
+
