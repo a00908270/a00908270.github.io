@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## ConbexNN
 
-You can use the [editor on GitHub](https://github.com/a00908270/a00908270.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the project homepage of `ConbexNN`, a **con**tainer **b**ased **ex**ecution stack for **n**eural **n**etworks (ConbexNN) using the Kubernetes container orchestration and a Java based microservice architecture, which is exposed to users and other systems via RESTful webservices. The whole workflow including importing, training and evaluating a neural network model, becomes possible by using this service oriented approach. This work is influenced by N2Sky, a framework for the exchange of neural network specific knowledge and aims to support ViNNSL, the Vienna Neural Network Specification Language. The execution stack runs on many common cloud platforms. Furthermore it is scalable and each component is extensible and interchangeable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Masterthesis
 
-### Markdown
+This is a masterthesis project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Getting started:
 
-```markdown
-Syntax highlighted code block
+Get started [here](https://github.com/a00908270/conbexnn)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a00908270/a00908270.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### API Documentation
+Check out the [api documentation](https://app.swaggerhub.com/apis/a00908270/vinnsl-service/0.0.1-SNAPSHOT).
