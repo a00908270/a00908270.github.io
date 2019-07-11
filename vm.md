@@ -18,7 +18,7 @@ Tested with VirtualBox 5.2.18 r124319 on macOS 10.13.6
 
 ### Download
 
-[Download here](https://conbexvm.blob.core.windows.net/conbexvm/ConbexNN.ova)
+[Download here](https://benjaminnussbaum.at/download/ConbexNN.ova)
 
 ### Import
 In VirtualBox click
